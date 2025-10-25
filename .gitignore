@@ -1,0 +1,4 @@
+.env
+.vt_scanner_config
+__pycache__/
+*.pyc
